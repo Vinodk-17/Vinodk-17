@@ -15,8 +15,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/vinod kuril" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vinod kuril" height="30" width="40" /></a>
-<a href="https://fb.com/vinod kuril" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vinod kuril" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/vinod-kuril-6398b5220/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vinod kuril" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100069381196241" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vinod kuril" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/vinodkuril17" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="vinodkuril17" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/vinodkuril_17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="vinodkuril_17" height="30" width="40" /></a>
 </p>
