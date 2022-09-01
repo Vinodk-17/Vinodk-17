@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vinodk-17&label=Profile%20views&color=0e75b6&style=flat" alt="vinodk-17" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vinodk-17" alt="vinodk-17" /></a> </p>
-
 - 🔭 Check out my amazing [Tetris Game](https://vinodk-17.github.io/TetrisGame-/)
 
 - 🌱 I’m currently working on a **Social Media website project**
