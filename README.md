@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vinodk-17" alt="vinodk-17" /></a> </p>
 
-- 🔭 Check out my amazing [Tetris Game](vinodk-17.github.io/tetrisgame-/)
+- 🔭 Check out my amazing [Tetris Game](https://vinodk-17.github.io/TetrisGame-/)
 
 - 🌱 I’m currently working on a **Social Media website project**
 
