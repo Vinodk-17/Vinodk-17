@@ -25,6 +25,18 @@
 
 -----  
 
+<h1 align="center">Repositories to contribute in Hacktoberfest🤩</h1>
+
+| Repository Name      | Description | 
+| :---:        |    :----   |  
+| [Tribute Page](https://github.com/Vinodk-17/Tribute_page) | A single Tribute Page website , go ahead and add more pages and functionality  . |
+| [Weather Forecasting Website](https://github.com/Vinodk-17/weatherapiminiproject) | Weather forecasting website,you can contribute to this project is by making it more responsive and adding more functionality . |
+| [To-Do-List](https://github.com/avinash201199/To-Do-List)    | This is a javascript TO-Do-List app , you can contribute to this project by adding some extra feature or by improving UI/UX and work on the other issue to.      
+| [Portfolio-Collector](https://github.com/Vinodk-17/Portfolio-Collector)      | This repository contains collection of portfolio's . You can add your own repository.
+
+----- 
+
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vinodk-17&show_icons=true&locale=en" alt="vinodk-17" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vinodk-17&" alt="vinodk-17" /></p>
