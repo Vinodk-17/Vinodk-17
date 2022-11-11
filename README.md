@@ -23,17 +23,6 @@
 <a href="https://www.instagram.com/vinodkuril_17/?hl=en"><img src="https://img.shields.io/badge/-@vinodkuril_17-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
 <a href="mailto:kurilvinod9870@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
 
------  
-
-<h1 align="center">Repositories to contribute in Hacktoberfest🤩</h1>
-
-| Repository Name      | Description | 
-| :---:        |    :----   |  
-| [Tribute Page](https://github.com/Vinodk-17/Tribute_page) | A single Tribute Page website , go ahead and add more pages and functionality  . |
-| [Weather Forecasting Website](https://github.com/Vinodk-17/weatherapiminiproject) | Weather forecasting website,you can contribute to this project is by making it more responsive and adding more functionality . |
-| [To-Do-List](https://github.com/Vinodk-17/To-Do-List)    | This is a javascript TO-Do-List app , you can contribute to this project by adding some extra feature or by improving UI/UX and work on the other issue to.      
-| [Portfolio-Collector](https://github.com/Vinodk-17/Portfolio-Collector)      | This repository contains collection of portfolio's . You can add your own repository.
-
 ----- 
 
 
